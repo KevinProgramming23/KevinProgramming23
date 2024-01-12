@@ -1,4 +1,4 @@
-### Hi there im current sutdying applied Computer Science
+### Hi there im current studying applied Computer Science
 
 <!--
 **KevinProgramming23/KevinProgramming23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
